@@ -1,5 +1,4 @@
-# portfolio.github.io
- my design portfolio
+my design portfolio
 
 custom code using html, css, bootstrap, and elements from stardew valley
 
